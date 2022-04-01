@@ -18,7 +18,8 @@
 </div>
   
   ##
- 
+
+### Languages:
 <div> 
   <a href="https://instagram.com/pedroluizsgc" target="_blank" rel=”noopener”><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel=”noopener”></a>
   <a href = "mailto:camarapedro139@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
