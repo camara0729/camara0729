@@ -21,7 +21,7 @@
 
 ### Social:
 <div style = "display: inline_block"><br> 
-  <a href="https://instagram.com/pedroluizsgc" target="_blank" rel=”noopener”><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel=”noopener”></a>
-  <a href = "mailto:camarapedro139@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pedro-luiz-sales-guerra-camara-74930020a" target="_blank" rel=”noopener”><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/pedroluizsgc" target="_blank" rel=”noopener”><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" hspace="5" target="_blank" rel=”noopener”></a>
+  <a href = "mailto:camarapedro139@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" hspace="5"></a>
+  <a href="https://www.linkedin.com/in/pedro-luiz-sales-guerra-camara-74930020a" target="_blank" rel=”noopener”><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" hspace="5" target="_blank" rel=”noopener”></a> 
 </div>
