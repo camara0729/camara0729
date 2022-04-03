@@ -1,7 +1,7 @@
 ### Hi! My name is Pedro Luiz Camara, computer science student and researcher!
 <div>
   <a href="https://github.com/camara0729">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=camara0729&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=camara0729&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camara0729&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
