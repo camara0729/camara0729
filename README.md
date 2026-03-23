@@ -19,7 +19,6 @@ I'm a passionate **Computer Science** student with experience in **data engineer
 - **Methodologies:** Agile (Scrum)
 
 ## 📫 Let's Connect!
-- 🌐 **Portfolio:** *Coming soon!*
 - 🔗 **LinkedIn:** [Pedro Camara](https://www.linkedin.com/in/pedro-luiz-camara)
 - 💻 **GitHub:** [camara0729](https://github.com/camara0729)
 - 📧 **Email:** [camarapedro139@gmail.com](mailto:camarapedro139@gmail.com)
